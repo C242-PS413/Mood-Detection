@@ -14,6 +14,7 @@ ipython_config.py
 
 /archive
 archive.zip
+Untitled.ipynb
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
